@@ -1,0 +1,8 @@
+On downloading the txt file and opening it, I found:
+64 33 33 70 01111011 01001010 01110101 00110101 01110100 01011111 00110100 01011111 01001110 00110000 01110010 01101101 00110100 01101100 95 67 104 52 108 108 95 95 111 163 156 140 164 137 61 164 77 175
+
+After analyzing, it was found that it is a combination of hex, binary, decimal, octal in the same order.
+
+The site used was:  https://v2.cryptii.com/
+
+After decrypting everything, we got the flag as:  d33p{Ju5t_4_N0rm4l_Ch4ll__Isn`t_1t?}
